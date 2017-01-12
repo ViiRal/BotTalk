@@ -26,6 +26,6 @@ You will need to have [Node.js](https://nodejs.org), and `npm` installed on your
 
 2. Install the dependencies: `npm install`
 
-3. Copy the [config.sample.js](/AppleBetas/BotTalk/blob/master/config.sample.js) file to config.js, and make any required changes.
+3. Copy the [config.sample.js](config.sample.js) file to config.js, and make any required changes.
 
 4. Run either `fight.js` or `talk.js` to start either of the scripts!
