@@ -8,7 +8,7 @@ config.talk = {};
 
 // GLOBAL SETTINGS:
 
-// Cleverbot.io API
+// Cleverbot.io API authentication (get from: https://cleverbot.io/keys)
 config.global.cleverbot = {};
 config.global.cleverbot.apiUser = "";
 config.global.cleverbot.apiKey = "";
@@ -27,7 +27,7 @@ config.fight.channelID = "";
 config.fight.bot1 = {};
 config.fight.bot2 = {};
 
-// Discord tokens for bot accounts
+// Discord tokens for bot accounts (follow the instructions here to get a bot account: https://twentysix26.github.io/Red-Docs/red_guide_bot_accounts/)
 config.fight.bot1.discordToken = "";
 config.fight.bot2.discordToken = "";
 
@@ -50,7 +50,7 @@ config.talk.channelID = "";
 
 config.talk.bot = {};
 
-// Discord tokens for bot accounts
+// Discord tokens for bot accounts (follow the instructions here to get a bot account: https://twentysix26.github.io/Red-Docs/red_guide_bot_accounts/)
 config.talk.bot.discordToken = "";
 
 // Name: nickname to set on script start
