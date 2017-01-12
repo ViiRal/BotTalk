@@ -24,13 +24,9 @@ You will need to have [Node.js](https://nodejs.org), and `npm` installed on your
 
 ### Instructions
 
-1. Clone this repo:
+1. Clone this repo: `git clone https://www.github.com/AppleBetas/BotTalk`
 
-```git clone https://www.github.com/AppleBetas/BotTalk```
-
-2. Install the dependencies:
-
-```npm install```
+2. Install the dependencies: `npm install`
 
 3. Copy the config.sample.js file to config.js, and make any required changes.
 
