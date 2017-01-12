@@ -18,7 +18,7 @@ Getting started with these bots is easy!
 
 ### What you'll need
 
-You will need to have [Node.js](https://nodejs.org), and `npm` installed on your machine.
+You will need to have [Node.js](https://nodejs.org) and `npm` installed on your machine.
 
 ### Instructions
 
